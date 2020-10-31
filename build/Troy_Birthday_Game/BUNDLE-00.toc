@@ -1,0 +1,3 @@
+([('Troy_Birthday_Game',
+   '/Users/phudang/PycharmProjects/Python_program/Game_for_Troy/dist/Troy_Birthday_Game',
+   'EXECUTABLE')],)
